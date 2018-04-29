@@ -5,7 +5,7 @@
 Overview
 ---
 
-In this project, the car uses deep neural networks and convolutional neural networks to clone driving behavior. The model learns with data froma human driver. Later the model will output a steering angle to drive an autonomous vehicle in the simulator.
+In this project, the car uses deep neural networks and convolutional neural networks to clone driving behavior. The model learns with data from a human driver. Later the model will output a steering angle to drive an autonomous vehicle in the simulator.
 
 The project have five files: 
 * model.py (script used to create and train the model)
